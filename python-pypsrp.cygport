@@ -1,0 +1,12 @@
+inherit python-wheel
+
+NAME="python-pypsrp"
+VERSION=0.3.1
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="PowerShell Remoting Protocol module for Python"
+DESCRIPTION="pypsrp is a Python client for the PowerShell Remoting Protocol
+(PSRP) and Windows Remove Management (WinRM) service. It allows your to
+execute commands on a remote Windows host from any machine that can run Python."
+
+ARCH=noarch
